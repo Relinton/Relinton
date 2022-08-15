@@ -1,4 +1,4 @@
-## Olá, eu sou o Relinton Pinheiro, Desenvolvedor Full Stack | .Net Core | C#!
+## Olá, eu sou o Relinton Pinheiro, Desenvolvedor .Net Core | MVC | C#!
 <div align="center">
   <a href="https://github.com/Relinton">
 <!--
