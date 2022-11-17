@@ -1,5 +1,5 @@
 ## Olá, eu sou o Relinton Pinheiro, Desenvolvedor .Net Core | MVC | C#!
-### Estudando desenvolvimento Mobile | Android
+### Estudando Desenvolvimento Mobile | Android
 https://relinton.github.io/portfoliorelintonpinheiro.github.io/
 <div align="center">
   <a href="https://github.com/Relinton">
@@ -13,6 +13,7 @@ https://relinton.github.io/portfoliorelintonpinheiro.github.io/
   <img align="center" alt="Relinton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Relinton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Relinton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Relinton-Csharp" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png">
 <!--
   <img align="right" alt="Relinton-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 -->
