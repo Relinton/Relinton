@@ -1,4 +1,5 @@
 ## Olá, eu sou o Relinton Pinheiro, Desenvolvedor .Net Core | MVC | C#!
+### Estudando desenvolvimento Mobile | Android
 https://relinton.github.io/portfoliorelintonpinheiro.github.io/
 <div align="center">
   <a href="https://github.com/Relinton">
