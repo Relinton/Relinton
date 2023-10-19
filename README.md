@@ -1,4 +1,4 @@
-## Olá, eu sou o Relinton Pinheiro, Desenvolvedor Web ASP.Net Core | ASP NET MVC | C# & Desenvolvedor Mobile | Android Java
+## Olá, eu sou o Relinton Pinheiro, Desenvolvedor Web C# ASP.Net Core | ASP NET MVC & Desenvolvedor Mobile | Android Java
 #### Portfólio: https://relintonpinheiro.vercel.app/
 #### Curriculum: https://relinton.github.io/portfoliorelintonpinheiro.github.io/arquivos/CurriculoDigitalRelintonPinheiro.pdf
 <div align="center">
