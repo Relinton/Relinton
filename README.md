@@ -1,4 +1,4 @@
-## Olá, eu sou o Relinton Pinheiro, Desenvolvedor Full Stack | .NET | C# | JavaScript | ASP.NET Core | MVC | Entity Framework
+## Olá, eu sou Relinton Pinheiro, Desenvolvedor Full Stack | .NET | C# | JavaScript | ASP.NET Core | MVC | Entity Framework
 #### Portfólio: https://relintonpinheiro.vercel.app/
 <!--#### Curriculum: https://relinton.github.io/portfoliorelintonpinheiro.github.io/arquivos/CurriculoDigitalRelintonPinheiro.pdf-->
 <div align="center">
